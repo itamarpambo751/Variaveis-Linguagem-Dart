@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##Tipos de variaveis no dart
+## Tipos de variaveis no dart
+
 - *Int*
     O tipo int no dart é igual a todos os que você já tá!?
 - *double*
